@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @cmorse97
-- 👀 I’m interested in camping, baseball, and video games
-- 🌱 I’m currently learning Full-Stack Web Development
-- 💞️ I’m looking to collaborate on fun and exciting web development projects
+- Full Stack Engineer specializing in Frontend solutions
 - 📫 How to reach me via Discord (cmoosen17 #9128), email (calebmorse.code@gmail.com)
 
 <!---
